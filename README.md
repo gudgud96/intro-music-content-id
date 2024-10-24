@@ -5,3 +5,5 @@ Here I prepared two notebooks that showcase two different techniques to recogniz
 - The other one is a deep learning based cover song detection method, which is adapted from [Zhesong Yu](https://github.com/yzspku)'s [CQTNet](https://github.com/yzspku/CQTNet) project. This is a deep metric learning solution that outputs an embedding for a original/cover song, and minimizes their distance in a vector space. This method is good for recognising variants like covers and remixes.
 
 Credits to both Will's and Zhesong's work for their inspiration when I was working on the topic of music content ID.
+
+There are some demo tracks that I used in the notebook...well, you know where to get them :)
